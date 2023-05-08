@@ -1,3 +1,3 @@
-EP1 de TecProg 2
+EPs de TecProg 2
 
 Galaxy Raiders 
