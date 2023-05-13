@@ -1,3 +1,2 @@
-EPs de TecProg 2
+Exercicios das aulas de TecProg 2
 
-Galaxy Raiders 
